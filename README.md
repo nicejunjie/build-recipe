@@ -1,2 +1,2 @@
-# build-recipe-
+# build-recipe
 build recipe for different codes
